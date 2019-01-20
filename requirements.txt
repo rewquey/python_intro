@@ -1,0 +1,5 @@
+nbstripout
+numpy
+scipy
+numba
+matplotlib
