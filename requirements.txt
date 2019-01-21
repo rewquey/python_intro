@@ -3,3 +3,7 @@ numpy
 scipy
 numba
 matplotlib
+cartopy
+xarray
+pandas
+netCDF4
